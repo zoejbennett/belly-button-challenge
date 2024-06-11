@@ -18,3 +18,5 @@ The app is built through the development of four main functions:
 **optionChanged( )**: Builds a new dashboard everytime the user wants to change the selected sample from the dropdown menu. 
 
 The final app can be  found at this link: https://zoejbennett.github.io/belly-button-challenge/ 
+
+I utilized help from stack overflow and the UC Berkeley tutor Justin Moore in completing this project.
