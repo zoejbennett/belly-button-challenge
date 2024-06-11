@@ -13,7 +13,7 @@ The app is built through the development of four main functions:
 
 **buildCharts( )**: Constructs the charts for the app. First filters the samples for the object with the intended sample number, extracting the bacteria (OTUs) IDs, labels, and sample values. The bubble chart is built through the constructed variables bubbledata and bubblelayout. This chart displays the quantity and type of all OTUs discovered in the sample. The bar chart is built with the variables barChart and barChartLayout, displaying the quantity of the top 10 bacteria found in each sample.
 
-**init( )**:
+**init( )**: Creates and initializes the dropdown menu, allowing users to choose the sample they want to visualize the data from. 
 
-**optionChanged( )**:
+**optionChanged( )**: Builds a new dashboard everytime the user wants to change the selected sample from the dropdown menu. 
 
